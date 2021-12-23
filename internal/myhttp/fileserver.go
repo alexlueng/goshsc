@@ -12,8 +12,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/alexlueng/goshsc/myhtml"
-	"github.com/alexlueng/goshsc/mylog"
+	"github.com/alexlueng/goshsc/internal/myhtml"
+	"github.com/alexlueng/goshsc/internal/mylog"
 )
 
 type directory struct {

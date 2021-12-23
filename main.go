@@ -4,7 +4,7 @@ import (
 	"flag"
 	"os"
 
-	"github.com/alexlueng/goshsc/myhttp"
+	"github.com/alexlueng/goshsc/internal/myhttp"
 )
 
 /*
